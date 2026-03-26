@@ -7,14 +7,14 @@ body{
 }
 .hero{
   position:relative;
-  height:60vh;
+  height:35vh;
   background:url('imagenes/portada.png') center/cover no-repeat;
   display:flex;
   flex-direction:column;
   justify-content:center;
   align-items:center;
   text-align:center;
-  color:white;
+  color:#000000 !important;
 }
 .overlay{
   position:absolute;
