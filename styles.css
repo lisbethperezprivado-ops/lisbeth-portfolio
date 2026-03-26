@@ -2,12 +2,12 @@
 body{
   margin:0;
   font-family:'Nunito',sans-serif;
-  background:#0d0d0d;
+  background:#ffffff;
   color:#e5e5e5;
 }
 .hero{
   position:relative;
-  height:35vh;
+  height:50vh;
   background:url('imagenes/portada.png') center/cover no-repeat;
   display:flex;
   flex-direction:column;
